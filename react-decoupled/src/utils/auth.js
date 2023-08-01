@@ -20,7 +20,8 @@ const refreshPromises = [];
 export function getAuthClient(config = {}) {
   const defaultConfig = {
     // Base URL of your Drupal site.
-    base: 'https://react-tutorials-2.ddev.site',
+    // base: 'https://react-tutorials-2.ddev.site',
+    base: 'http://react.test:8088',
     // Name to use when storing the token in localStorage.
     token_name: 'drupal-oauth-token',
     // OAuth client ID - get from Drupal.
