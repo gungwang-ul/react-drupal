@@ -20,7 +20,7 @@
         "drupal/core-project-message": "^8.8",
         "drupal/core-recommended": "~9.0",
         "drupal/devel": "^4.1",
-        "drupal/simple_oauth": "^4.4"
+        "drupal/simple_oauth": "^6.0@beta"
     },
     "require-dev": {
         "drush/drush": "^10.2"
