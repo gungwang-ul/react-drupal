@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc
 module:
   automated_cron: 0
   big_pipe: 0
@@ -26,6 +28,7 @@ module:
   jsonapi: 0
   link: 0
   menu_ui: 0
+  mysql: 0
   node: 0
   options: 0
   page_cache: 0
@@ -33,6 +36,8 @@ module:
   path_alias: 0
   quickedit: 0
   rdf: 0
+  rest: 0
+  restui: 0
   search: 0
   serialization: 0
   shortcut: 0
@@ -48,7 +53,6 @@ module:
   menu_link_content: 1
   views: 10
   standard: 1000
-  mysql: 0
 theme:
   stable: 0
   classy: 0
@@ -56,5 +60,3 @@ theme:
   seven: 0
   react_example_theme: 0
 profile: standard
-_core:
-  default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc
